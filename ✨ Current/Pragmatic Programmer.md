@@ -1,0 +1,1 @@
+If its important enough to be Global wrap it an API?
